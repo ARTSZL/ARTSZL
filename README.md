@@ -1,6 +1,6 @@
 <h1 align="center">Hi Everyone👋, My name is Artur szlachcic</h1>
 <div align="center"><img src="https://img.freepik.com/premium-vector/devops-software-development-operations-infinity-symbol_115739-982.jpg" width="100%"></div>
-<h3 align="center">A hard-working boy from Poland who studies the secrets of DevOps and wants to become a DevOps engineer in the future. Thanks to my passion for order, I am comfortable in managing and implementing CI/CD. Tools such as Vagrant, Ansible, Jenkins and Linux are familiar to me. I know AWS and Azure, although I'm still learning.👨‍💻</h3>
+<h3 align="center">A hard-working guy from Poland who studies the secrets of DevOps and wants to become a DevOps engineer in the future. Thanks to my passion for order, I am comfortable in managing and implementing CI/CD. Tools such as Vagrant, Ansible, Jenkins and Linux are familiar to me. I know AWS and Azure, although I'm still learning.👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artszl&label=Profile%20views&color=0e75b6&style=flat" alt="artszl" /> </p>
