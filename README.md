@@ -1,15 +1,15 @@
 <h1 align="center">Hi Everyone👋, My name is Artur szlachcic</h1>
 <div align="center"><img src="https://img.freepik.com/premium-vector/devops-software-development-operations-infinity-symbol_115739-982.jpg" width="100%"></div>
-<h3 align="center">A hard-working guy from Poland who studies the secrets of DevOps and wants to become a DevOps engineer in the future. Thanks to my passion for order, I am comfortable in managing and implementing CI/CD. Tools such as Vagrant, Ansible, Jenkins and Linux are familiar to me. I know AWS and Azure, although I'm still learning.👨‍💻</h3>
+<h3 align="center">I'm a diligent guy from Poland, on a quest to master DevOps and pursue a career as a DevOps engineer. My natural inclination for organization enables me to excel in managing and implementing CI/CD pipelines. I'm well-versed in tools like Vagrant, Ansible, Jenkins, Terraform and Linux, and I have a working knowledge of AWS and Azure, which I'm continuously expanding.👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artszl&label=Profile%20views&color=0e75b6&style=flat" alt="artszl" /> </p>
 
-- 🌱 I’m currently learning: **Terraform and Azure**
+- 🌱 I’m currently learning: **GitOps and Azure**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/ARTSZL](https://github.com/ARTSZL)
 
-- 💬 Ask me about: **Cloud, CI/CD, Vagrant, Linux**
+- 💬 Ask me about: **Cloud, CI/CD, Python, Linux**
 
 - 📫 How to reach me: **a.szlachcic.as@gmail.com**
 
