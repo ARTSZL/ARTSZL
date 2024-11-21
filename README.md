@@ -1,6 +1,6 @@
-<h1 align="center">Hi Everyone👋, My name is Artur szlachcic</h1>
+<h1 align="center">Hi Everyone👋, My name is Artur</h1>
 <div align="center"><img src="https://img.freepik.com/free-vector/colourful-illustration-programmer-working_23-2148281410.jpg?t=st=1732191705~exp=1732195305~hmac=d2e47d8ab6d4360025122eb42d3429c6f16568f71f763fa0254d0a78891d2f98&w=996" width="100%"></div>
-<h3 align="center">I'm a diligent guy from Poland, on a quest to master Front-end and pursue a career as a Front-end Developer. My natural inclination for organization enables me to excel in managing and implementing clean code. I'm well-versed in tools like HTML, CSS, JavaScript, Terraform and Linux, and I have a working knowledge of AWS and Azure, which I'm continuously expanding.👨‍💻</h3>
+<h3 align="center">I'm a diligent guy from Poland, on a quest to master Front-end and pursue a career as a Front-end Developer. My natural inclination for organization enables me to excel in managing and implementing clean code. I am a passionate **Front-End Developer** with a strong focus on creating responsive and user-friendly web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs. I'm well-versed in tools like HTML, CSS, JavaScript, Terraform and Linux, and I have a working knowledge of AWS and Azure, which I'm continuously expanding.👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artszl&label=Profile%20views&color=0e75b6&style=flat" alt="artszl" /> </p>
